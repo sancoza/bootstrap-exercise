@@ -1,2 +1,2 @@
-All rights reserved Traversi Media - Bootstrap exercise
+All rights reserved Traversy Media - Bootstrap exercise
 ![](img/screencapture.png)
